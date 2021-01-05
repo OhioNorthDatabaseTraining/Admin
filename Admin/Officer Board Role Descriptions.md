@@ -9,7 +9,7 @@ Discuss topics regularly and guide officers in terms of:
     Grow current members in speaking and community involvement
     Provide leadership opportunities to members
 Confirm in-person meeting room reservation at least 6 months in advance.
-- OR - confirm virtual meeting setup at least 2 months in advance.
+-OR- confirm virtual meeting setup at least 2 months in advance.
 Bring (preferably non-alcoholic) beverages to in-person meeting.
 At meeting: Announce local PASS news. Announce location of after-meeting happy hour.
 
