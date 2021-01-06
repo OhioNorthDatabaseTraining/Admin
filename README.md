@@ -1,3 +1,3 @@
-# Documentation
+# Admin
 
-Documentation for the Ohio North Database Training user group.
+Administrative files and issues to manage for the group.
