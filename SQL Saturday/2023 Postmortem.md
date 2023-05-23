@@ -43,7 +43,6 @@
 - Add speaker evals online. Evals can be a raffle. At least be clearer with eval instructions - give to speaker.
 - Need 6 people to cut badges - 2 to cut, 2 to stuff, 2 to arrange
 - Sessions that aren't just a 1 hour deep dive - lightning talks, social stuff, trivia game, etc..
-- 
 
 ## App to build
 - QR code scan to list of people who got scanned
